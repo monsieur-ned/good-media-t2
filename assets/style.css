@@ -1,0 +1,70 @@
+#good{
+background-image: url('./img/49.jpg');
+background-repeat: no-repeat;
+background-size: cover;
+background-position: right;
+}
+#media{
+    background-color: rgba(0, 0,0, 0.7);
+}
+section{
+    padding: 100px;
+}
+/*.row{
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+}*/
+
+.row.col50{
+    position: relative;
+    width: 48%;
+    justify-content: center;
+    align-items: center;
+}
+.row.col5 h2{
+    margin-bottom: 20px;
+}
+
+.titre{
+    display: flex;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    }
+    .card img{
+        width: 100%;
+
+    }
+
+.img-services{
+    height: 250px;
+    object-fit: cover;
+}
+
+.block-service-1{
+    background-image: url("./img/0321d82d90e62e32356adc9b154d2cf8.gif");
+    background-size: cover;
+    background-position: center;
+    height: 100px;
+}
+    
+.services-div-rgba{
+    background-color: rgba(0, 0, 0, 0.5);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+#anna img{
+    height: 200px;
+    object-fit: cover;
+}
+
+.titre-section{
+    width: 180px;
+    padding: 5px 20px;
+    color: #fff;
+    font-size: 18px;
+}
