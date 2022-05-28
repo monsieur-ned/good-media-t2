@@ -29,7 +29,7 @@
 
     <div class="container my-5">
         <div class="row">
-            <div class="col-md-12 p-0">
+            <div class="col-md-12 p-2 p-md-0">
                 <h4 class="bg-danger titre-section" class="titre-text">NOS SERVICE</h4>
                 <P>
                     Mariage, Anniversaire, Evénement...
@@ -39,8 +39,8 @@
         </div>
 
         <div class="row mt-1">
-            <img src="assets/img/20fad19539eb7643fdccaef38f78b778.jpg" alt="nos services en images" class="col-md-6 p-0 img-services">
-            <img src="assets/img/clara.jpg" alt="nos services en images" class="col-md-6 p-0 img-services">
+            <img src="assets/img/D-P-159.jpg" alt="nos services en images" class="col-md-6 p-0 img-services">
+            <img src="assets/img/D-P-25.jpg" alt="nos services en images" class="col-md-6 p-0 img-services">
         </div>
 
         <div class="row">
@@ -111,16 +111,16 @@
         </div>
         <div class="row my-3">
             <img src="assets/img/tati.jpg" class="col-md-3" alt="">
-            <img src="assets/img/eaux1.jpg" class="col-md-3" alt="">
-            <img src="assets/img/fleur.jpg" class="col-md-3" alt="">
+            <img src="assets/img/pexels-giuseppe-messina-4364780.jpg" class="col-md-3" alt="">
+            <img src="assets/img/D-P-130.jpg" class="col-md-3" alt="">
             <img src="assets/img/lune.jpg" class="col-md-3" alt="">
         </div>
 
         <div class="row my-3">
             <img src="assets/img/mariage.jpg" class="col-md-3" alt="">
             <img src="assets/img/portrait3.jpg" class="col-md-3" alt="">
-            <img src="assets/img/shooting (2).jpg" class="col-md-3" alt="">
-            <img src="assets/img/savane.jpg" class="col-md-3" alt="">
+            <img src="assets/img/D-P-25.jpg" class="col-md-3" alt="">
+            <img src="assets/img/taty.jpg" class="col-md-3" alt="">
         </div>
     </div>
 
@@ -146,21 +146,23 @@
                 <label>Objet de votre rendez-vous !</label>
                 <select name="" id="" class="form-select">
                     <option value="mariage">Mariage</option>
-                    <option value="paysage">paysage</option>
+                    <option value="paysage">Paysage</option>
                     <option value="Anniversaire">Anniversaire</option>
-                    <option value="nature">nature</option>
-                    <option value="plage">plage</option>
-                    <option value="animaux">animaux</option>
-                    <option value="portrait">portrait</option>
-                    <option value="camera">camera</option>
+                    <option value="nature">Nature</option>
+                    <option value="plage">Plage</option>
+                    <option value="animaux">Animaux</option>
+                    <option value="portrait">Portrait</option>
+                    <option value="camera">Camera</option>
                 </select>
             </div>
 
             <div class="col-md-6 form-group my-2">
+                <label>Entrez une date</label>
                 <input type="date" name="date" class="form-control">
             </div>
 
             <div class="col-md-6 form-group my-2">
+                <label>Entrez l'heure</label>
                 <input type="time" name="nom" class="form-control">
             </div>
 
